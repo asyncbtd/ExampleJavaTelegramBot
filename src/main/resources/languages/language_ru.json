@@ -1,0 +1,14 @@
+{
+  "commands": [
+    {
+      "START_COMMAND": "start",
+      "HELP_COMMAND": "||help||",
+      "EXIT_COMMAND": "Выключаю себя"
+    }
+  ],
+  "text": [
+    {
+      "SIGMA_TEXT": ""
+    }
+  ]
+}

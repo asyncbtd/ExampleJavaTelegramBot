@@ -1,0 +1,15 @@
+{
+  "commands": [
+    {
+      "START_COMMAND": "start",
+      "HELP_COMMAND": "help",
+      "EXIT_COMMAND": "exit"
+    }
+  ],
+  "text": [
+    {
+      "TEST": "",
+      "EXIT_TEXT": "KILLME"
+    }
+  ]
+}
